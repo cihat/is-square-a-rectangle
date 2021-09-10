@@ -18,5 +18,5 @@ class Square extends Rectangle {
 const rectangle = new Rectangle(10, 5)
 const squre = new Square(10, 10)
 
-console.log(rectangle.getArea())
-console.log(squre.getArea())
+console.log(rectangle.getArea()) // 50
+console.log(squre.getArea()) // 100
